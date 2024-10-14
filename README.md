@@ -1,7 +1,7 @@
 # CSE 30872 Programming Challenges (Fall 2023) - Contest 1
 
 - **Group Name**: 
-
+BuiltBuff
 - **Group Members**: 
-    - Domer McDomerson (dmcdomers@nd.edu) 
-    - Belle Fleur (bfleur@nd.edu) 
+    - Dan Yoo (hyoo@nd.edu) 
+    - Matthew Eleazar (meleazar@nd.edu) 
