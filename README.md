@@ -3,5 +3,6 @@
 - **Group Name**: 
 
 - **Group Members**: 
-    - Domer McDomerson (dmcdomers@nd.edu) 
-    - Belle Fleur (bfleur@nd.edu) 
+    - Molly Sullivan (msulli52@nd.edu)
+    - Sophia Noonan (snoonan2@nd.edu)
+    - Henry Lee (hlee26@nd.edu)
